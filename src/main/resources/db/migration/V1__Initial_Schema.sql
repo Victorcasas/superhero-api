@@ -1,0 +1,4 @@
+-- Init script
+
+-- DDL
+CREATE TABLE super_hero (id BIGINT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255) NOT NULL);
