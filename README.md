@@ -7,7 +7,7 @@
 
 ## Description of superhero-api 
 
-Spring Boot 3 and Java 21 application, built trying to follow the s.o.l.i.d. and clean design principles that implements a REST web service for CRUD operations.
+An Spring Boot 3 and Java 21 application, built trying to follow the s.o.l.i.d. and clean design principles that implements a REST web service for CRUD operations.
 
 The maintenance operations allo w:
 
