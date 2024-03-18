@@ -49,7 +49,7 @@ When the application is started, it populates the database with the appropriate 
 * GET superheroes/{id}
 * PUT superheroes/{id}
 * DELETE superheroes/{id}
-* superheroes/search?word={word}
+* GET superheroes/search?word={word}
 
 To use swagger-ui navigate to http://localhost:8080/swagger-ui/index.html and execute the call filling the properties fields.
 
